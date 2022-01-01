@@ -1,0 +1,32 @@
+.container {
+  width: 900px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.heading {
+  text-align: center;
+  margin: 0;
+  margin-bottom: 50px;
+}
+.form {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.card__desc {
+  text-align: center;
+  font-weight: 800;
+}
+.wrappesr {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.card {
+  padding: 20px;
+  border: 2px solid #222;
+  background-color: aquamarine;
+  color: green;
+  border-radius: 10px;
+  width: 15%;
+}
